@@ -1,0 +1,350 @@
+Letzte Überarbeitung: 15. Juni 2022. Diese Version ersetzt die vorherige Version der
+Nutzungsbedingungen für die Adobe Experience Cloud („Nutzungsbedingungen“) vollständig.
+Hinweis für den Benutzer: Adobe gewährt Ihnen das Zugriffs- und Nutzungsrecht für die Adobe
+Experience Cloud-Produkte und -Dienste, für die Sie eine gültige und aktuelle Lizenz besitzen (die
+„Dienste“). Voraussetzung ist jedoch, dass Sie als Nutzer der Dienste („Sie“) sämtliche Bedingungen, die
+in diesen Nutzungsbedingungen enthalten sind oder auf die darin verwiesen wird, akzeptieren.
+1. Vereinbarung mit Adobe.
+1.1 Zusätzlich zu diesen Nutzungsbedingungen unterliegen Ihr Zugriff auf die Dienste und deren Nutzung
+den schriftlichen Lizenzbedingungen, die zuvor in einer separaten Vereinbarung zwischen Ihnen, Ihrem
+Arbeitgeber oder dem Unternehmen, das Sie anderweitig vertreten („(Ihr) Unternehmen“), und entweder
+(a) Adobe Inc. oder Adobe Systems Software Ireland Limited und seinen Vertretern und verbundenen
+Unternehmen (zusammen „Adobe“) oder (b) einem autorisierten Adobe-Fachhändler vereinbart wurden.
+1.2 Wenn Ihr Unternehmen den Lizenzbedingungen zuvor nicht zugestimmt hat, gilt Folgendes:
+(a) Ihr Zugriff auf die Dienste sowie deren Verwendung unterliegen ferner den aktuell geltenden
+Lizenzbedingungen unter.
+(b) Ihre Zustimmung zu diesen Nutzungsbedingungen erfolgt in Ihrem Namen und im Namen des
+Unternehmens, und Sie erkennen an, dass dieses Unternehmen rechtlich an die Lizenzbedingungen von
+Adobe Enterprise gebunden ist. Sie versichern, dass Sie das Recht haben, im Auftrag dieses Unternehmens
+zu handeln und verbindliche Vereinbarungen für es zu treffen.
+(c) Wenn ein solches Unternehmen nicht existiert, stimmen Sie den Lizenzbedingungen von Adobe
+Enterprise in Absatz 1.2 für sich selbst als Einzelperson zu. Außerdem erklären Sie sich damit
+einverstanden, rechtlich an diese Bedingungen gebunden zu sein.
+1.3 „Vereinbarung“ im Sinne dieser Nutzungsbedingungen bezeichnet die in Abschnitt 1.1 bzw. Abschnitt
+1.2 genannten Bedingungen und Vereinbarungen. Die Vereinbarung ist fester Bestandteil dieser
+Nutzungsbedingungen. Bei Widersprüchen zwischen der Vereinbarung und diesen Nutzungsbedingungen
+sind die Bedingungen der Vereinbarung ausschlaggebend.
+2. Annahme dieser Nutzungsbedingungen.
+2.1 Sie können nicht auf die Dienste zugreifen oder sie nutzen, wenn Sie diesen Nutzungsbedingungen
+nicht zustimmen.
+2.2 Sie dürfen die Dienste nicht nutzen, wenn:
+(a) es Ihnen von Gesetzes wegen oder durch allgemein anerkannte Praktiken oder Richtlinien in einem
+Land („Gesetz“) verboten ist, die Dienste zu empfangen oder zu nutzen;
+(b) Sie nicht vollständig in der Lage und befugt sind, einen verbindlichen Vertrag mit Adobe abzuschließen.
+Sie bestätigen, dass Sie nach den Gesetzen Ihres Landes volljährig sind, und dass diese Dienste nach den
+Gesetzen Ihres Landes nicht für Minderjährige und auf keinen Fall für Kinder unter 13 Jahren bestimmt
+sind; und
+(c) dass Sie kein direkter Konkurrent eines der Dienste sind und diese Dienste nicht zum Zwecke der
+Überwachung seiner Verfügbarkeit, Leistung oder Funktionalität oder für andere Benchmarking- oder
+Wettbewerbszwecke verwenden.
+2.3 Wenn Sie die Schaltfläche „Akzeptieren“ oder eine andere Schaltfläche oder einen Mechanismus
+zur Zustimmung zu den Bedingungen einer elektronischen Kopie dieser Nutzungsbedingungen
+auswählen oder die Dienste ganz oder teilweise installieren, herunterladen, darauf zugreifen oder sie
+anderweitig kopieren oder verwenden, akzeptieren Sie und stimmen Sie zu, dass:
+(a) diese Nutzungsbedingungen dieselbe Wirkung wie ein schriftlicher, ausgehandelter und von Ihnen
+unterzeichneter Vertrag besitzen,
+(b) Sie rechtlich durch alle Konditionen dieser Nutzungsbedingungen gebunden sind, einschließlich
+sämtlicher Bedingungen, die durch Verweis aufgenommen wurden, und
+(c) Sie in Übereinstimmung mit diesen Nutzungsbedingungen und allen Gesetzen, einschließlich aller
+Datenschutzgesetze, die für die Dienste gelten, handeln.
+2.4 Adobe kann die Nutzungsbedingungen von Zeit zu Zeit aktualisieren und verlangen, dass Sie Ihr
+Einverständnis mit den aktualisierten Nutzungsbedingungen erklären, bevor die weitere Nutzung der
+Dienste erlaubt wird.
+2.5 Diese Nutzungsbedingungen sind gegen jede natürliche oder juristische Person, die auf die Dienste
+zugreift, sie installiert oder verwendet, sowie gegen jede natürliche oder juristische Person (z. B.
+Systemintegrator, Berater oder Vertragspartner), die die Dienste im Namen einer anderen natürlichen
+oder juristischen Person installiert oder verwendet, durchsetzbar.
+2.6 Sie erklären, die Dienste nicht herunterzuladen, zu vervielfältigen, zu verändern, anzuzeigen,
+vorzuführen, zu übertragen, zu vertreiben oder anderweitig zu nutzen, es sei denn, dies ist in diesen
+Nutzungsbedingungen vorgesehen.
+3. Datenschutzrichtlinien.
+3.1 Informationen zu den Datenschutz- und Datenerfassungspraktiken von Adobe finden Sie in den
+Adobe-Datenschutzrichtlinien unter, die durch Verweis in diese
+Nutzungsbedingungen aufgenommen werden. Sie erklären sich damit einverstanden, dass Adobe Ihre
+Daten in Übereinstimmung mit den Datenschutzrichtlinien verwenden darf. Wenn Sie eine E-Mail-Adresse
+verwenden, die einer Unternehmensdomäne zugeordnet ist (z. B. ihr_name@firmenname.com), um auf
+die Dienste von Adobe zuzugreifen, oder wenn Sie von Ihrem Unternehmen zur Nutzung der Dienste
+eingeladen wurden, gibt Adobe möglicherweise Ihre Materialien an dieses Unternehmen weiter.
+3.2 Sie verpflichten sich, keine besonderen Kategorien personenbezogener Daten mit den Diensten oder
+der Software zu erfassen, zu verarbeiten oder zu speichern, es sei denn, dies ist in der Lizenzvereinbarung
+zwischen Ihrem Unternehmen und Adobe ausdrücklich gestattet. Sie stimmen zu, keine besonderen
+Kategorien personenbezogener Daten an Adobe oder einen Drittanbieter von Adobe zu übermitteln,
+offenzulegen oder auf andere Weise zur Verfügung zu stellen. „Besondere Kategorien
+personenbezogener Daten“ bezeichnet Finanzinformationen einer Einzelperson, Informationen über die
+sexuelle Orientierung, medizinische oder Gesundheitsdaten, die nach Gesetzen zum Schutz von
+Gesundheitsdaten geschützt sind, biometrische Daten (zum Zwecke der eindeutigen Identifizierung einer
+Einzelperson) sowie personenbezogene Informationen von Kindern, die nach Gesetzen zum Schutz der
+Daten von Minderjährigen geschützt sind (z. B. über den „US Children's Online Privacy Protection Act“
+(Gesetz zum Schutz der Privatsphäre von Kindern im Internet, „COPPA“)) sowie irgendwelche sonstigen
+Arten von Informationen, die unter diesen oder einen ähnlichen Begriff fallen (wie z. B. „vertrauliche
+persönliche Daten“ oder „sensible personenbezogene Informationen“), die in den geltenden
+Datenschutzgesetzen oder Gesetzen zum Schutz des Persönlichkeitsrechts verwendet werden.
+3.3 Während Ihrer Nutzung der Dienste kann Adobe Informationen darüber erfassen, wie Sie die AdobeMaterialien nutzen und mit den Diensten interagieren, und kann diese Informationen verwenden, um die
+Dienste oder Ihre Fähigkeit, auf die Dienste und die Adobe-Materialien zuzugreifen und sie zu nutzen, zu
+ändern, zu verbessern oder zu erweitern. Für alle browserbasierten Adobe Experience Cloud-Produkte,
+bei denen Sie sich über die Experience Cloud-Benutzerauthentifizierung authentifizieren können (z. B.
+durch Anmeldung über experience.adobe.com), können Sie die Erfassung dieser Informationen durch
+Adobe über experience.adobe.com/preferences jederzeit deaktivieren.
+Zum Deaktivieren der Erfassung dieser Informationen durch Adobe für alle anderen Adobe-Produkte oder
+andere Anmeldemethoden (z. B. Desktop-Anwendungen oder andere nicht browserbasierte Produkte und
+Dienste) wenden Sie sich für weitere Informationen bitte an Ihr Konto-Team.
+Diese Opt-outs gelten nur für die Produktnutzungsdaten, die erfasst werden, wenn Sie die Dienste von
+Adobe entweder als Adobe Experience Cloud-Kunden oder im Auftrag eines Adobe Experience CloudKunden nutzen. Die Opt-outs gelten nicht für andere Kontexte, in denen Sie als Verbraucher oder
+Besucher von Websites im Allgemeinen mit den Diensten von Adobe interagieren können.
+3.4 Sie erklären sich damit einverstanden, dass (1) Adobe Ihrem Unternehmen die Möglichkeit einräumt,
+auf Ihr mit den Diensten verbundenes Profil und alle Ihre Materialien zuzugreifen, sie zu nutzen, zu
+entfernen, aufzubewahren und zu kontrollieren, unabhängig davon, ob sie vor oder nach dem Datum der
+letzten Aktualisierung dieser Nutzungsbedingungen hochgeladen oder importiert wurden; (2) Adobe Sie
+kontaktieren darf, um Sie beim Zugriff auf die Dienste und die Adobe-Materialien und bei deren Nutzung
+zu unterstützen; und (3) Adobe Ihre personenbezogenen Daten an Ihr Unternehmen weitergeben darf.
+Wenn Sie ein Benutzer mit Berechtigungen von mehreren Unternehmen sind, können Sie separate Profile
+haben, die mit jedem Unternehmen verbunden sind (z. B. wenn Sie ein Auftragnehmer für mehrere
+Unternehmen sind und jedes Unternehmen eine separate Lizenz für Adobe-Produkte hat, auf die Sie
+Zugriff erhalten können). Daher können Sie verschiedene Vereinbarungen mit einem Unternehmen oder
+Verpflichtungen gegenüber einem Unternehmen haben, die sich auf Ihr Profil oder Ihre Materialien
+auswirken können, wie unten definiert. Adobe ist nicht verantwortlich für Verletzungen solcher
+Vereinbarungen oder Verpflichtungen durch Sie.
+4. Materialien.
+4.1 „Adobe-Materialien“ sind Materialien, die von Adobe gemäß diesen Nutzungsbedingungen
+bereitgestellt werden. Unter Adobe-Materialien werden keine „Kundendaten“ und „Kundeninhalte“ laut
+Definition in dieser Vereinbarung verstanden.
+4.2 „Materialien“ sind sämtliche von Ihnen, Adobe oder einem Dritten bereitgestellten Materialien,
+insbesondere (a) Nutzermaterialien, einschließlich Nutzungs- und Telemetrieaktivitäten, (b) Berichte,
+Text, Code, Daten, Dokumente, Bilder, Fotos, Grafiken, Audiodateien, Videos oder Webcasts, (c) Produkte
+oder (d) Software.
+4.3 Der Begriff „Software“ umfasst den Softwarecode von Adobe und die zugehörige Dokumentation,
+insbesondere Mobil- und Tablet-Anwendungen im Zusammenhang mit den Diensten, Inhaltsdateien,
+Treiber, Patches oder Schriftarten.
+4.4 Während Ihrer Nutzung der Dienste können Sie, Adobe oder Dritte bestimmte Materialien per E-Mail
+senden, veröffentlichen, übertragen, hochladen oder anderweitig bereitstellen oder verfügbar machen
+(„teilen“).
+4.5 Sie erklären sich damit einverstanden, dass Sie vollständig für alle Materialien verantwortlich sind, die
+Sie teilen („Ihre Materialien“), unabhängig davon, ob sie öffentlich zur Verfügung gestellt oder privat
+übertragen werden. Sie übernehmen sämtliche Risiken im Zusammenhang mit der Verwendung Ihrer
+Materialien, einschließlich des Gebrauchs im Vertrauen auf deren Richtigkeit, Vollständigkeit und
+Zweckmäßigkeit.
+4.6 Lizenzen für Ihre Materialien. Sie gewähren Adobe eine weltweite, kostenlose, nicht ausschließliche,
+übertragbare und unterlizenzierbare Lizenz zum Anpassen, Verteilen, Ändern, Anzeigen, Veröffentlichen,
+Vervielfältigen, Übersetzen und Verwenden Ihrer Materialien, damit Adobe die Dienste betreiben,
+vermarkten und optimieren und Ihre Nutzung der Dienste aktivieren kann. Darüber hinaus kann Adobe
+gemäß Abschnitt 11 (Untersuchungen) Archiv- oder Sicherungskopien Ihrer Materialien aufbewahren.
+4.7 Sie erkennen an, dass die Dienste automatisiert sind (z. B. werden Ihre Materialien mithilfe von Tools
+hochgeladen, die mit den Diensten verbunden sind) und dass Mitarbeiter von Adobe nicht auf Ihre
+Materialien zugreifen, sie ansehen oder anhören werden, es sei denn, dies ist für die Bereitstellung der
+Dienste oder die Ausübung der Rechte von Adobe erforderlich, insbesondere um:
+(a) auf Supportanfragen von Ihnen oder Ihrem Unternehmen zu reagieren;
+(b) betrügerische Absichten oder Sicherheits- oder technische Probleme zu erkennen, zu verhindern oder
+anderweitig zu behandeln;
+(c) gesetzliche Bestimmungen oder Rechtswege, die von Adobe in gutem Glauben als notwendig oder
+ratsam erachtet werden, einzuhalten;
+(d) diese Nutzungsbedingungen, einschließlich der Untersuchung möglicher Verstöße dagegen,
+durchzusetzen (siehe Beschreibung in Abschnitt 11 (Untersuchungen); oder
+(e) wie anderweitig durch diese Nutzungsbedingungen und die Vereinbarung gestattet.
+4.8 Sie erkennen an und stimmen zu, dass Sie für Schäden haftbar sind, die durch die Weitergabe Ihrer
+Materialien entstehen, und dass nicht Adobe dafür haftbar ist, auch wenn Adobe bestrebt ist,
+Sicherheitsmaßnahmen zum Schutz Ihrer Materialien (einschließlich Ihrer Materialien, die Sie privat
+teilen) zu ergreifen.
+5. Nutzung von Diensten und Adobe-Materialien.
+5.1 Im Rahmen Ihres Zugriffs auf die Dienste und deren Nutzung erhalten Sie möglicherweise über die
+Website von Adobe Experience Cloud oder anderweitig Zugang zu Adobe-Materialien und Foren.
+5.2 Sie erklären sich damit einverstanden, dass Sie nicht Eigentümer von Adobe-Materialien oder -
+Diensten sind und dass keine Handlungen von Ihnen auf den Diensten oder Materialien, die Sie teilen,
+Adobe oder die Drittlieferanten von Adobe auf irgendeine Weise in der Entwicklung, Verwendung,
+Lizenzierung, Verteilung, Änderung oder sonstigen freien Nutzung dieser Adobe-Materialien oder Dienste
+einschränken.
+5.3 Sofern nicht ausdrücklich in diesen Nutzungsbedingungen gestattet, dürfen Sie die Dienste oder
+Adobe-Materialien in keiner Form und mit keinen Mitteln kopieren, verwenden, vervielfältigen, verteilen,
+neu veröffentlichen, herunterladen, anzeigen, bekannt machen oder übertragen.
+5.4 Sie werden die Adobe-Materialien, die sich auf einen Dienst beziehen, nicht an eine Person
+weitergeben, die in direktem Wettbewerb zu diesem Dienst steht, oder anderweitig offenlegen.
+5.5 Mit Ausnahme Ihrer Materialien verpflichten Sie sich:
+(a) die Dienste oder Materialien nicht über den ausdrücklich zulässigen Rahmen hinaus, der durch die
+Bedingungen der Vereinbarung festgelegt ist, zu ändern, abzuwandeln, Ableitungen davon zu erstellen,
+anzupassen oder zu übersetzen.
+(b) die Dienste oder Materialien nicht über den ausdrücklich zulässigen Rahmen hinaus, der durch die
+Bedingungen der Vereinbarung festgelegt ist, in irgendeiner Form oder mit irgendwelchen Mitteln zu
+kopieren, zu verwenden, zu vervielfältigen, zu verteilen, neu zu veröffentlichen, herunterzuladen,
+anzuzeigen, bekannt zu machen oder zu übertragen.
+(c) weder durch Reverse Engineering noch durch Dekompilierung, Disassemblierung oder auf andere
+Weise zu versuchen, den Quellcode der Dienste, der im Objektcode geliefert wird, zu ermitteln.
+(d) keine Textpassagen oder Hinweise zum Urheberrecht, die in den Diensten oder Materialien enthalten
+sind, zu entfernen, zu verbergen oder zu ändern.
+(e) das Design, das Layout oder das Erscheinungsbild des Dienstes weder ganz noch teilweise zu kopieren
+oder zu imitieren, da diese durch Urheberrechte, Urheberpersönlichkeitsrechte, Marken,
+Handelsaufmachungen, Patente, Geschäftsgeheimnisse, Rechte zum Schutz vor unlauterem Wettbewerb
+und andere Schutz- und Eigentumsrechte („geistige Eigentumsrechte“) geschützt sind.
+(f) weder die Foren noch einen anderen Bereich des Dienstes zu nutzen, um Fehler zu melden oder Kritik
+zu äußern (wir bitten Sie, sich in einem solchen Fall direkt an Adobe Client Care zu wenden).
+(g) nur für die direkten vorteilhaften Geschäftszwecke Ihres Unternehmens und in Übereinstimmung mit
+diesen Nutzungsbedingungen und der Vereinbarung auf die Dienste und Materialien zuzugreifen bzw. sie
+dementsprechend zu nutzen.
+(h) keinem Dritten den Zugriff auf die Dienste oder deren Nutzung zu gestatten, es sei denn, dies ist
+ausdrücklich gemäß den Bedingungen der Vereinbarung gestattet.
+(i) dass bestimmte Dienste und Materialien nur dann verfügbar sein können, wenn Sie eine Gebühr bezahlt
+oder bestimmte Kontoinformationen (siehe Definition in Abschnitt 7 unten) übermittelt haben.
+6. Geistiges Eigentum.
+6.1 Dienste und Adobe-Materialien. Die Dienste und Materialien von Adobe sind durch Rechte an
+geistigem Eigentum geschützt. Adobe und die Lizenzgeber von Adobe gewähren über den ausdrücklich in
+der Vereinbarung festgelegten Rahmen hinaus keine ausdrücklichen oder stillschweigenden Rechte zur
+Nutzung der Dienste und Materialien von Adobe. Sämtliche Rechte bezüglich der Dienste und Materialien
+von Adobe in allen Sprachen, Formaten und Medien auf der ganzen Welt sind und bleiben alleiniges
+Eigentum von Adobe und/oder den Lizenzgebern von Adobe. Keine hierin enthaltene Bestimmung darf
+dahingehend ausgelegt werden, dass eine Lizenz oder ein Recht stillschweigend, durch Verwirkung oder
+anderweitig gemäß Urheberrecht oder anderen Rechten an geistigem Eigentum auf Sie oder Dritte
+übertragen wird.
+6.2 Marken. Die Marken, Logos und Dienstleistungsmarken, die in den Diensten angezeigt werden
+(„Marken“), sind Eigentum von Adobe oder anderen Rechteinhabern. Sie sind nicht berechtigt, die
+Marken ohne die vorherige Zustimmung von Adobe oder des jeweiligen Rechteinhabers zu verwenden.
+Adobe und das Adobe-Logo sind Marken von Adobe. Eine aktuelle Auflistung der Marken von Adobe sowie
+von bestimmten Marken Dritter finden Sie in den veröffentlichten Markeninformationen unter
+
+6.3 Rückmeldungen. Sie sind nicht verpflichtet, Ideen, Vorschläge oder Anregungen an Adobe zu senden
+(„Rückmeldung“). Wenn Sie Adobe Rückmeldungen übermitteln, sind wir jedoch berechtigt, diese ohne
+Vergütung an Sie für jeden beliebigen Zweck zu verwenden. Alle Rechte in Bezug auf Produkte oder
+Dienstleistungen, die Adobe unter Umständen aus Rückmeldungen generiert, sind alleiniges Eigentum
+von Adobe. Keine Bestimmung in diesen Nutzungsbedingungen darf dahingehend ausgelegt werden, dass
+eine Lizenz oder ein Recht stillschweigend, durch Verwirkung oder anderweitig gemäß Urheberrecht oder
+anderen geistigen Eigentumsrechten auf Sie oder Dritte übertragen wird.
+6.4 Foren. Vorbehaltlich des obigen Abschnitts 4.6 ist Adobe im Verhältnis zwischen Ihnen und Adobe
+Eigentümer aller Inhalte und Materialien, die in den Foren veröffentlicht werden, einschließlich Text,
+Ideen, Code, Muster und Bildern, die nicht von Ihnen bereitgestellt werden.
+7. Kontoinformationen und Anmeldung.
+Bei der Registrierung für einen Dienst stellen Sie Adobe Informationen über Ihr Konto zur Verfügung und
+erstellen Anmeldeinformationen, einschließlich eines Kontokennworts („Kontoinformationen“). Sie
+verpflichten sich, dafür zu sorgen, dass Ihre Kontoinformationen immer vollständig, richtig und auf dem
+neuesten Stand sind. Es liegt in Ihrer Verantwortung, Ihr Kontokennwort oder Ihre Anmeldeinformationen
+stets vertraulich zu behandeln. Sie tragen gegenüber Adobe die alleinige Verantwortung für sämtliche
+Aktivitäten, die über Ihr Konto erfolgen. Sie verpflichten sich ferner, keine Kontoinformationen für Dritte
+zu erstellen, die nicht berechtigt sind, auf die Dienste zuzugreifen. Wenn Sie bemerken, dass Ihr Konto
+oder Ihre Kontoinformationen unbefugt verwendet werden oder eine andere Sicherheitsverletzung
+vorliegt, sind Sie verpflichtet, Adobe unter davon in Kenntnis
+zu setzen. Adobe kann jederzeit und aus beliebigem Grund verlangen, dass Sie Ihre Kontoinformationen
+oder bestimmte Teile davon ändern. Sofern Sie von Adobe nicht ausdrücklich das Recht erhalten haben,
+Adobe-Kennungen als Kontoadministrator für ein Unternehmen zu erstellen und zu verwalten, oder dies
+nicht ausdrücklich in der Vereinbarung gestattet ist, dürfen Sie die Kontoinformationen anderer Personen
+nicht verwenden.
+8. Nutzerverhalten und Foren.
+8.1 Sie erklären sich damit einverstanden, ausschließlich über die von Adobe bereitgestellte Schnittstelle
+auf die Dienste zuzugreifen und keine Zugangs- oder Nutzungsbeschränkungen zu umgehen, die
+bestimmte Nutzungen der Dienste verhindern sollen, es sei denn, dies ist gemäß den Bestimmungen der
+Vereinbarung ausdrücklich gestattet.
+8.2 Sie erklären sich damit einverstanden, die Dienste, einschließlich Foren, nicht für die folgenden Zwecke
+zu verwenden oder andere dazu zu ermutigen bzw. anderen dies zu gestatten:
+(a) um rechtswidrige, gefährliche, bedrohliche, beleidigende, unerlaubte, diffamierende, ehrenrührige,
+unzüchtig, obszöne, kinderpornographische, schlüpfrige, gotteslästerliche, die Privatsphäre eines anderen
+verletzende, abscheuliche oder rassistisch, ethnisch oder anderweitig anstößige Materialien
+weiterzugeben (Anmerkung: unzüchtig, obszöne oder gotteslästerliche Inhalte, die durch Verbergen oder
+Ändern eines oder mehrerer Buchstaben des ursprünglichen Worts verschleiert werden, gelten ebenfalls
+als anrüchig und sind daher nicht erlaubt);
+(b) um negative Kommentare, die gegen Personen (einschließlich Personen des öffentlichen Lebens) oder
+Firmen (einschließlich Adobe oder Kunden von Adobe) gerichtet sind, zu senden oder zu veröffentlichen;
+(c) um Waren oder Dienstleistungen zu geschäftlichen Zwecken (einschließlich Werbung und Angebote
+für den Kauf oder Verkauf von Waren oder Dienstleistungen) zu vermarkten, sofern dies nicht ausdrücklich
+von Adobe genehmigt wurde;
+(d) um den Konsum von Drogen und Alkohol, Sex, Pornographie oder sonstiger Inhalte für Erwachsene,
+Gotteslästerung, Hassäußerungen, „Spamming“, Betrug, rassistische Äußerungen oder illegale Aktivitäten
+zu fördern;
+(e) um andere zu stalken, einzuschüchtern und/oder zu belästigen;
+(f) um andere zur Gewalt anzustiften;
+(g) um Minderjährigen in irgendeiner Weise Schaden zuzufügen;
+(h) um Material zu teilen, zu dessen Weitergabe Sie von Gesetzes wegen oder infolge eines Vertrags- oder
+Treuhandverhältnisses nicht berechtigt sind;
+(i) um Material zu teilen, das die geistigen Eigentumsrechte oder sonstige proprietäre Rechte anderer
+verletzt;
+(j) um sich als eine andere natürliche oder juristische Person auszugeben oder Ihre Verbindung zu einer
+anderen natürlichen oder juristischen Person falsch oder missverständlich darzustellen;
+(k) um Header zu fälschen oder Kennungen anderweitig zu manipulieren und so die Herkunft von
+Materialien, die über die Dienste veröffentlicht oder gesendet werden, zu verschleiern;
+(l) um die Dienste oder Materialien so zu verwenden, dass ein Nutzer glaubt, dass er direkt mit Adobe
+oder einem Dienst interagiert;
+(m) um sich an Kettenbriefen, Wettbewerben, Werbe-E-Mails, Pyramidenspielen, Spamming, Umfragen
+oder anderen (kommerziellen oder sonstigen) Massensendungen oder unaufgeforderten E-Mails zu
+beteiligen;
+(n) um einen Adobe-Domänennamen als Pseudonym für eine E-Mail-Absenderadresse zu verwenden;
+(o) um Materialien freizugeben, die Viren oder andere Computercodes, Dateien oder Programme
+enthalten, die erstellt wurden, um die Funktionalität von Computersoftware, Hardware oder
+Telekommunikationseinrichtungen zu unterbrechen, zu zerstören oder einzuschränken;
+(p) um auf die Dienste in einer Weise zuzugreifen, die einen Adobe-Server oder die an einen Adobe-Server
+angeschlossenen Netzwerke beschädigen, deaktivieren, überlasten oder beeinträchtigen könnte, bzw. die
+Dienste auf eine solche Weise zu nutzen;
+(q) um die Dienste absichtlich oder unabsichtlich zu stören oder zu unterbrechen oder Anforderungen,
+Verfahren, Richtlinien oder Vorschriften von Netzwerken zu verletzen, die mit den Diensten verbunden
+sind, oder sich an Aktivitäten zu beteiligen, die durch die Vereinbarung verboten sind;
+(r) um die Sicherheit der Dienste, Materialien, Systemressourcen, Konten, Kennwörter, Server oder
+Netzwerke, die mit den Diensten oder zugehörigen bzw. verknüpften Websites verbunden oder über diese
+zugänglich sind, zu beeinträchtigen oder zu stören oder anderweitig diesbezüglich Schaden zu
+verursachen;
+(s) um andere Nutzer bei der Verwendung der Dienste oder Materialien bzw. anderer zugehöriger oder
+verknüpfter Websites, Dienste oder Materialien zu stören oder zu beeinträchtigen oder an deren Nutzung
+zu hindern;
+(t) um auf Materialien zuzugreifen, für die Sie keine Zugriffsberechtigung besitzen, oder eine
+Zugriffsmethode zu verwenden, die nicht über die Dienste zur Verfügung stehen soll, oder einen
+entsprechenden Versuch zu unternehmen;
+(u) um einen Teil der Dienste oder Materialien, die Nutzung von Diensten oder Materialien oder den
+Zugriff auf Dienste oder Materialien zu vervielfältigen, zu verkaufen, weiterzuverkaufen oder
+wirtschaftlich zu verwerten bzw. damit zu handeln;
+(v) um die Dienste, einschließlich aller zugehörigen Anwendungen, ohne Genehmigung von Adobe auf
+Abonnement-Basis oder anderweitig zu hosten, (i) um Dritten die Nutzung der Dienste zur Erstellung, zur
+Übertragung oder zum Schutz von Inhalten zu erlauben oder (ii) um Konferenzen oder Online-Treffen für
+Dritte abzuhalten;
+(w) um andere zu betrügen oder zu beleidigen oder anderweitig gegen die gesetzlich verankerten Rechte
+anderer (z. B. Persönlichkeits- und Veröffentlichungsrechte) zu verstoßen.
+8.3 Adobe behält sich das Recht vor, Ihren Zugang zu den Foren und Diensten jederzeit zu beenden.
+Verstöße gegen diese Nutzungsbedingungen führen dazu, dass Ihr Zugang zu den Foren und Diensten für
+unbestimmte Zeit gesperrt wird.
+8.4 Inhalte aus den Foren dürfen nicht außerhalb des Forums kopiert, vervielfältigt, übertragen, verteilt
+oder veröffentlicht werden. Die Inhalte dürfen ausschließlich in den Foren oder in von Adobe
+genehmigten Diensten verwendet werden. Adobe behält sich das Recht vor, Inhalte, die in irgendeiner
+Weise gegen diese Nutzungsbedingungen verstoßen, zu bearbeiten und zu löschen.
+9. Internationale Nutzer.
+9.1 Die Dienste können Verweise auf Dienste und Materialien enthalten, die in Ihrem Land nicht verfügbar
+sind. Diese Verweise bedeuten nicht, dass Adobe die Einführung dieser Dienste und Materialien in Ihrem
+Land beabsichtigt.
+9.2 Diese Dienste werden von Adobe, Inc. über die Niederlassungen von Adobe in den Vereinigten Staaten
+von Amerika kontrolliert, betrieben und verwaltet. Soweit nichts anderes in der Vereinbarung vorgesehen
+ist, übernimmt Adobe keine Gewährleistung, dass die Dienste oder Materialien zur Verwendung
+außerhalb der Vereinigten Staaten geeignet oder verfügbar sind. Adobe behält sich das Recht vor, den
+Zugriff auf die Dienste oder Materialien für bestimmte internationale Nutzer zu sperren. Wenn Sie von
+einem Ort außerhalb der Vereinigten Staaten auf die Dienste zugreifen, sind Sie zudem für die Einhaltung
+der jeweils geltenden Gesetze verantwortlich.
+10. Einhaltung von Handelssanktionen und Ausfuhrkontrollen.
+10.1 Die Dienste und Materialien und Ihre Nutzung derselben unterliegen Einschränkungen und
+Bestimmungen der USA und anderer Länder, die (A) die Einfuhr, Ausfuhr und Nutzung der Dienste und
+Software regeln und (B) Adobe die Bereitstellung der Dienste und Software ohne Vorankündigung
+untersagen können. Durch die Nutzung der Dienste und Materialien erklären Sie sich damit
+einverstanden, alle derartigen Gesetze, Beschränkungen und Vorschriften einzuhalten, und Sie
+garantieren, dass Ihnen der Empfang der Dienste und Materialien nach den Gesetzen eines Landes nicht
+untersagt ist.
+10.2 Sollte Adobe durch ein Gesetz daran gehindert werden, eine Verpflichtung Ihnen gegenüber zu
+erfüllen, behält sich Adobe das ausschließliche Recht vor, eine oder alle Verpflichtungen einseitig zu
+kündigen, und haftet unter keinen Umständen für Schäden oder Rückzahlungen, die sich aus einer solchen
+Kündigung ergeben.
+11. Untersuchung.
+Adobe ist berechtigt, Verstöße gegen diese Nutzungsbedingungen zu untersuchen und zu verfolgen und
+Strafverfolgungsbehörden in eine derartige Verfolgung einzubeziehen. Sie bestätigen, dass Adobe nicht
+verpflichtet ist, Ihren Zugriff auf die Dienste und deren Nutzung zu überwachen, jedoch im Rahmen der
+Bereitstellung der Dienste das Recht dazu hat, um Ihre Einhaltung dieser Nutzungsbedingungen oder der
+geltenden Gesetze oder der Anordnungen bzw. Auflagen eines Gerichts, einer Behörde oder einer
+anderen Regierungsstelle sicherzustellen.
+12. Höhere Gewalt.
+Adobe haftet für die Nichterfüllung bzw. verzögerte Erfüllung seiner Pflichten gemäß diesen
+Nutzungsbedingungen, falls eine solche Nichterfüllung oder verzögerte Erfüllung auf Ursachen
+zurückzuführen ist, die außerhalb seines Einflussbereichs liegen, insbesondere Naturkatastrophen,
+Terrorismus, Arbeitskampf, Feuer, Überschwemmung, Erdbeben, behördliche Maßnahmen, Handels-
+/Wirtschaftssanktionen, Embargos, Exportkontrollanforderungen, Verfügungen, Pandemien oder
+Beschränkungen, Drittlieferanten, Dienstverweigerungsangriffe und sonstiges böswilliges Verhalten,
+Versagen von Versorgungssystemen oder Stromausfälle.
+13. Hinweis für US-Regierungsbehörden.
+Endanwender: Die Software und das Begleitmaterial sind Handelswaren („Commercial Items“) im Sinne
+von 48 C.F.R. § 2.101, bestehend aus kommerzieller Computersoftware („Commercial Computer
+Software“) und Begleitmaterial für kommerzielle Computersoftware („Commercial Computer Software
+Documentation“) im Sinne von 48 C.F.R. § 12.212 bzw. 48 C.F.R. § 227.7202. Gemäß 48 C.F.R. § 12.212
+bzw. 48 C.F.R. §§ 227.7202-1 bis 227.7202-4 werden die kommerzielle Computersoftware und das
+Begleitmaterial für kommerzielle Computersoftware für US-Behörden als Endnutzer (a) nur als
+Handelswaren und (b) nur mit jenen Rechten zur Verfügung gestellt, die allen anderen Endnutzern gemäß
+den Bestimmungen des Lizenzvertrags für Endnutzer von Adobe gewährt werden. Unveröffentlichte
+Rechte nach den Urheberrechtsgesetzen der Vereinigten Staaten vorbehalten.
+14. Hinweise zu Drittanbietern.
+Die Ersteller bestimmter öffentlicher Standards und öffentlich verfügbarer Codes sowie andere
+Lizenzgeber verlangen, dass bestimmte Hinweise den Endnutzern der Adobe-Produkte und -Dienste
+mitgeteilt werden. Diese Hinweise zu Drittanbietern befinden sich unter 
